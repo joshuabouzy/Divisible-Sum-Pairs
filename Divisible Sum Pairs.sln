@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Divisible Sum Pairs", "Divisible Sum Pairs\Divisible Sum Pairs.pyproj", "{820CF14D-A78F-457C-A38D-8888A728ACEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{820CF14D-A78F-457C-A38D-8888A728ACEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{820CF14D-A78F-457C-A38D-8888A728ACEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E56A531-7B38-4BE1-B8B9-EAFAF1ACBF59}
+	EndGlobalSection
+EndGlobal
